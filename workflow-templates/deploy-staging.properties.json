@@ -1,6 +1,6 @@
 {
-    "name": "Deploy to Development Environment",
-    "description": "Deploy to a development environment",
+    "name": "Deploy to Staging Environment",
+    "description": "Deploy to a staging environment",
     "categories": [
         "k8s",
         "deployment"
