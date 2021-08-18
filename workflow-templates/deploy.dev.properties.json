@@ -1,0 +1,13 @@
+{
+    "name": "Deploy to Dev Workflow",
+    "description": "Deploy to a development environment",
+    "iconName": "example-icon",
+    "categories": [
+        "k8s",
+        "deployment"
+    ],
+    "filePatterns": [
+        "k8s",
+        "^Dockerfile"
+    ]
+}
